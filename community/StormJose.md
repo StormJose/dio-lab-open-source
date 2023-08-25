@@ -8,6 +8,10 @@
 
 
 
+## Iniciei com ![html](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![css3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3) 
+
+
+
 ### Atualmente estudo com desenvolvimento front-end em ![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  com ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 
@@ -38,15 +42,11 @@ Adquirindo afinidade com ![NodeJS](https://img.shields.io/badge/Node.js-000?styl
 
 ## Resumo sobre minha trajetoria
 
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StormJose&theme=transparent&bg_color=d4d4d8&border_color=111827&show_icons=true&icon_color=0e7490&title_color=111827&text_color=1f2937)
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StormJose&theme=transparent&bg_color=fff&border_color=111827&show_icons=true&icon_color=0e7490&title_color=111827&text_color=1f2937)
 
 
 
-```
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StormJose&bg_color=d4d4d8&border_color=111827&title_color=111827&text_color=1f2937)
-```
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StormJose&bg_color=fff&border_color=111827&title_color=111827&text_color=1f2937)
 
 
 
